@@ -1,0 +1,9 @@
+{
+    "token": "token here",
+    "status": "your status here",
+    "prefix": "prefix here",
+    "roles": {
+        "role id here": 0,
+        "another role id here": 1
+    }
+}
